@@ -1,12 +1,14 @@
-import {Button} from "./components/ui/button"
+import { Navbar } from "./components/Navbar"
+import { Separator } from "@/components/ui/separator"
 
 
 function App() {
 
   return (
-    <>
-      <Button>Hey</Button>
-    </>
+    <div className="bg-[#09090B] min-h-screen">
+      <Navbar />
+      <Separator className="p-15"/>
+    </div>
   )
 }
 
