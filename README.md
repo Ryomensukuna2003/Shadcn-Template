@@ -21,8 +21,8 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 1. Clone this repository:
    ```
-   git clone https://github.com/Ryomensukuna2003/react-vite-shadcn-template.git
-   cd react-vite-shadcn-template
+   https://github.com/Ryomensukuna2003/Shadcn-Template.git
+   cd Shadcn-Template
    ```
 
 2. Install dependencies:
